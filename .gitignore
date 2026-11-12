@@ -1,0 +1,22 @@
+# data, environments, run outputs (runs/ and the logs / models collected from it)
+data
+data/
+runs
+runs/
+results/
+checkpoints/
+logs
+logs/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+project1.pdf
+submissions/
+
+# report (uploaded separately), CSV files such as the submission written by predict.py, macOS metadata
+report/
+*.csv
+.DS_Store
+
